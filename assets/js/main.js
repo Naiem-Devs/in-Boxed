@@ -25,9 +25,12 @@
         items: 1
       },
       767: {
-        items: 2
+        items: 1
       },
       992: {
+        items: 2
+      },
+      1200: {
         items: 3
       }
     }
